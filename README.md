@@ -1,12 +1,25 @@
 ## Hi there 👋
 
-<!--
-**plt2024/plt2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Welcome to my GitHub
 
-Here are some ideas to get you started:
+I’m Hugo F. Valdez, Founder & CEO of PrecisionLink Technologies LLC, a consulting firm dedicated to harnessing Data Science (DS), Machine Learning (ML), and Artificial Intelligence (AI) to solve complex challenges in the Oil & Gas, Offshore, and Manufacturing sectors.
 
-- 🔭 I’m currently working on solving problems for the industry using data. My Company's mantra is "Big Data, Grea Solutions". 
-- 🌱 I’m currently learning AI Engineering to complement my DS background and to focus on prescriptive and generative solutions. 
-- 👯 I’m looking to collaborate on the design of AI Agents, Multi-Agent Systems and Agentic AI. 
-- 📫 How to reach me: hfvaldez@precisionlinktech.com
--->
+With over 35 years of international experience spanning deepwater drilling engineering, offshore operations, and manufacturing, I bring a unique domain expertise that bridges industry knowledge with advanced data-driven technologies. My background includes leading large-scale projects in the U.S., Mexico, Brazil, and West Africa, complemented by recent IBM Data Science certification and continuous training in AI applications.
+
+At PrecisionLink Technologies, our mission is to:
+
+📊 Apply data science and machine learning to optimize industrial processes, improve efficiency, and reduce risks.
+
+🔗 Develop strategies and AI-driven tools that connect technical insights with real-world operational needs.
+
+🌍 Partner with organizations to accelerate digital transformation in energy and manufacturing.
+
+On this GitHub, you’ll find:
+
+🧩 Projects showcasing DS/AI applications for energy and manufacturing use cases.
+
+📂 Prototypes, models, and tools for predictive analytics, process optimization, and decision support.
+
+🤝 Collaborative efforts exploring how AI can unlock measurable value in traditional industries.
+
+🚀 I’m committed to building solutions that empower companies to innovate with confidence and drive sustainable growth through intelligent transformation.
